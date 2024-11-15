@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+#main{
+    position: fixed;
+    left: 37%;
+    right: 25%;
+    top: 15%;
+    bottom: 25%;
+    background-color: white;
+    width: 25%;
+    height: 500px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+    align-content: center;
+}
+
+#scan{
+    background-color: white;
+    margin: 0px 20px 30px 25px;
+}
+
+img{
+    width: 300px;
+    height: 80%;
+    border-radius: 5px;
+    align-self: center;
+}
+
+p{
+    background-color: white;
+}
+
+#big{
+    font-weight: 700;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+#bigger{
+   margin-left: 50px;
+   margin-right: 10px;
+   margin-bottom: 15px;
+}
+
+#small{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+#smaller{
+   margin-left: 50px;
+   margin-right: 10px; 
+   margin-bottom: 20px; 
+}
+
